@@ -8,8 +8,11 @@ Currently in the second year of Software Engineering in PUCRS college, in brazil
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/rodrigolopesm/1824df8dd2a81826c2aab5a8b9c09178/raw/86a6e36ad24906c2787e43eab94f2250f1fddea3/finalimg.svg">
   <p><p\>
   
-![rodrigolopesm's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigolopesm&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolopesm)](https://github.com/rodrigolopesm/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/devpedrorocha">
+  <img width="46% height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigolopesm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45% height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolopesm&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 </div>
     I am currently studying the following technologies:
