@@ -9,7 +9,7 @@ Currently in the second year of Software Engineering in PUCRS college, in brazil
   <p><p\>
   
 <div align="left">
-  <a href="https://github.com/devpedrorocha">
+  <a href="https://github.com/rodrigolopesm">
   <img width="46% height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigolopesm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="45% height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolopesm&layout=compact&langs_count=7&theme=dark"/>
 </div>
