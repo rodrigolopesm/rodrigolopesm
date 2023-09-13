@@ -8,11 +8,7 @@ Currently in the second year of Software Engineering in PUCRS college, in brazil
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/rodrigolopesm/1824df8dd2a81826c2aab5a8b9c09178/raw/86a6e36ad24906c2787e43eab94f2250f1fddea3/finalimg.svg">
   <p><p\>
   
-<div align="left">
-  <a href="https://github.com/rodrigolopesm">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodrigolopesm&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="rodrigolopesm github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolopesm&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+
 
 
 </div>
