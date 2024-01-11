@@ -13,7 +13,8 @@ Currently in the second year of Software Engineering in PUCRS college, in brazil
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolopesm&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 </div>
-
+    
+___
   ## Tecnologies
   <div style="display: inline_block"><br>
 <p align="left">
