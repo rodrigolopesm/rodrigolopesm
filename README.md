@@ -15,7 +15,7 @@ Currently in the second year of Software Engineering in PUCRS college, in brazil
 </div>
     
 ___
-  ## Tecnologies
+  ## Tecnologies 💻️
   <div style="display: inline_block"><br>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@ ___
 </p>
 </div>
 
-  ## Tools
+  ## Tools ⚒️
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,figma,git,github,githubactions,gitlab,gradle,idea,linux,postman,vscode" />
@@ -32,7 +32,7 @@ ___
 </p>
 </div><br>
    
-  ## Contact
+  ## Contact 📞 
 
  If you want to make any contact with me, just call me on my social links:
     
