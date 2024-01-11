@@ -19,7 +19,7 @@ ___
   <div style="display: inline_block"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,docker,html,java,js,jest,mongodb,mysql,nextjs,postgres,prisma,react,spring,sqlite,styledcomponents,tailwind,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=css,docker,html,java,js,jest,mongodb,mysql,nextjs,postgres,prisma,react,spring,sqlite,styledcomponents,tailwind,ts,vscode,python,django" />
   </a>
 </p>
 </div>
@@ -27,7 +27,7 @@ ___
   ## Tools ⚒️
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,figma,git,github,githubactions,gitlab,gradle,idea,linux,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,figma,git,github,githubactions,gitlab,gradle,idea,linux,postman,vscode,django" />
   </a>
 </p>
 </div><br>
