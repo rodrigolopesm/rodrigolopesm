@@ -5,7 +5,7 @@ Currently in the second year of Software Engineering in PUCRS college, in brazil
 ##
 
 <div style= "display: flex"><br>
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/rodrigolopesm/1824df8dd2a81826c2aab5a8b9c09178/raw/86a6e36ad24906c2787e43eab94f2250f1fddea3/finalimg.svg">
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/rodrigolopesm/1824df8dd2a81826c2aab5a8b9c09178/raw/86a6e36ad24906c2787e43eab94f2250f1fddea3/finalimg.svg" style="pointer-events: none;">
 
 <div align="left">
   <a href="https://github.com/rodrigolopesm">
