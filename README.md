@@ -1,6 +1,6 @@
 ## Hi there! I'm Rodrigo Michalski ✌️
 
-Currently in the second year of Software Engineering in PUCRS college, in brazil. Hoping to become a full Stack developer as I improve myself in the technology area.
+Currently in the third year of Software Engineering in PUCRS college, in brazil. Hoping to become a full Stack developer as I improve myself in the technology area.
 
 ##
 
